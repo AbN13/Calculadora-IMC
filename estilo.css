@@ -1,0 +1,61 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+    font-family: Arial;
+    
+}
+
+#container{
+    border: 1px solid black;
+    margin-top: 150px;
+   
+    margin-right: 500px;
+    margin-left: 500px;
+    background-color: lightblue;
+}
+
+#titulo{
+    margin-left: 120px ;
+    margin-top: 10px;
+
+}
+
+#nome{
+    margin-left: 100px ;
+    
+    
+
+}
+
+#nome1{
+    margin-left: 10px ;
+}
+
+
+#peso{
+    margin-left: 100px ;
+
+}
+
+#peso1{
+    margin-left: 10px ;
+}
+
+#altura{
+    margin-left: 100px ;
+}
+
+#altura1{
+    margin-left: 10px ;
+}
+
+#calcular{
+    margin-left: 160px ;
+    margin-bottom: 10px;
+    
+}
+
+.result{
+    font-size: 13px ;
+    margin-left: 40px;
+}
